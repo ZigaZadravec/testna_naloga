@@ -28,8 +28,7 @@ Prav tako se na sliki vidi:
 - in zeleni okvir, ki predstavlja kje bi se naj nahajal objekt na sliki.
 
 ## Zagon
-Za zagon rešitve je potrebno repozitorij klonirati in dodati
-datoteko `video.mp4` na enak nivo kot je datoteka `main.py`. Prav tako je potrebno
+Za zagon rešitve je potrebno repozitorij klonirati. Prav tako je potrebno
 namestiti knjižnico openCV in numpy.
 ```
 pip install opencv-python numpy
